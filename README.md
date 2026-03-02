@@ -1,8 +1,8 @@
-# 🚦 Semáforos Auto-organizantes - Simulación con Pygame
+# Semáforos Auto-organizantes - Simulación con Pygame
 
 Simulación visual de un cruce de **4 intersecciones** con semáforos que se auto-organizan basándose en las 6 reglas de Carlos Gershenson, implementada en Python con Pygame.
 
-## 📋 Descripción
+## Descripción
 
 Este proyecto implementa un sistema de **semáforos auto-organizantes** que toman decisiones de cambio de luces de manera autónoma, sin un controlador central. Cada intersección evalúa las condiciones del tráfico a su alrededor y aplica un conjunto de **6 reglas** para determinar cuándo cambiar el estado de sus semáforos.
 
@@ -15,7 +15,7 @@ La simulación modela:
 
 ---
 
-## 🧠 Reglas de Auto-organización para semaforos
+## Reglas de Auto-organización para semaforos
 
 Cada intersección aplica las siguientes reglas de manera independiente para decidir el cambio de luces:
 
